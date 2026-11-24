@@ -278,7 +278,6 @@ h1:focus, main:focus { outline: 0; }
 .profile-details dd { color: var(--muted); font-size: .88rem; margin-top: 2px; }
 .roles { list-style: none; padding: 0; margin: 6px 0 0; display: grid; gap: 9px; }
 .roles span { display: block; font-size: .76rem; color: #73558b; }
-.profile-handle { width: fit-content; margin-top: 6px; }
 
 
 .view-case { padding-top: 18px; }

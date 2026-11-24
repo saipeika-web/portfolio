@@ -138,7 +138,6 @@ function showAbout() {
             </dl>
           </section>
         </div>
-        <a class="text-link profile-handle" href="https://t.me/saipei" target="_blank" rel="noopener noreferrer">@saipei</a>
       </div>
     </section>`;
 }
